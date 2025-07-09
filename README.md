@@ -1,4 +1,3 @@
-## Opa! 👋
 
 <!--
 **rafaellopes21/rafaellopes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Opa 👋Como vai?</h1>
 
 ###
 
