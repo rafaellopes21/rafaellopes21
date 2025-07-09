@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h1 align="center">Opa 👋Como vai?</h1>
 
@@ -66,3 +66,4 @@ Here are some ideas to get you started:
 </picture>
 
 ###
+-->
