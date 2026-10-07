@@ -1,69 +1,103 @@
-
-<!--
-**rafaellopes21/rafaellopes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<h1 align="center">Opa 👋Como vai?</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+
+  <!-- Header Banner / Gif -->
+  <h1>⚡ Hey, eu sou o Rafael Lopes (RAUFES) 👋</h1>
+  <p><strong>Full Stack Software Engineer | GIS Specialist | Content Creator & Tech Enthusiast</strong></p>
+
+  <!-- Badges de Status / Redes -->
+  <a href="https://rafaellopes21.github.io/portfolio.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-rafaellopes21.github.io-111111?style=for-the-badge&logoColor=white&color=D32F2F" alt="Portfolio" />
+  </a>
+  <a href="https://www.youtube.com/@RAUFES">
+    <img src="https://img.shields.io/badge/YouTube-RAUFES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  </a>
+  <a href="mailto:contato@rafaellopes.dev">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Digitação Animada / Subtítulo -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+JavaScript;GIS+%26+Interactive+Mapping+(OpenLayers);E-commerce+Architect+%26+Content+Creator" alt="Typing SVG" />
+  </a>
+
 </div>
 
-###
+---
+
+### 🚀 Sobre Mim
+
+- 💻 **Atuação:** Desenvolvedor Web Full Stack focado na construção de sistemas performáticos, e-commerces e plataformas web sob medida.
+- 🗺️ **Especialidade GIS:** Vasta experiência no desenvolvimento de aplicações geográficas e interação com mapas vetoriais (**OpenLayers**, manipulação de dados espaciais).
+- ⚙️ **Stack Principal:** **PHP (Laravel)** no backend, **JavaScript / Tailwind CSS / Blade** no frontend, e bancos relacionais (**PostgreSQL / MySQL**).
+- 🎬 **Content Creation & Gaming:** Criador do canal **RAUFES**, focado em conteúdo e destaques do universo gamer (Battlefield).
+- 🛡️ **Empreendedorismo:** Fundador e arquiteto de sistemas e e-commerce de identificação militar.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+
+  <br/>
+
+  <!-- GIS, Database & Tools -->
+  <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white" alt="OpenLayers" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vegas_Pro-000000?style=for-the-badge&logo=sony&logoColor=white" alt="Vegas Pro" />
+
 </div>
 
-###
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+  <!-- GitHub Stats Card -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafaellopes21&show_icons=true&theme=dark&title_color=ff2b2b&icon_color=ff2b2b&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Rafael Stats" />
+  
+  <!-- Most Used Languages Card -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellopes21&layout=compact&theme=dark&title_color=ff2b2b&icon_color=ff2b2b&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=6" alt="Top Languages" />
+
 </div>
 
-###
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
 
-###
--->
+  <!-- Streak Stats Card -->
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaellopes21&theme=dark&background=0d1117&border=30363d&stroke=ff2b2b&ring=ff2b2b&fire=ff2b2b&currStreakNum=ff2b2b&sideNums=c9d1d9&sideTitle=c9d1d9" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<div align="center">
+
+  <a href="https://rafaellopes21.github.io/portfolio.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=red" alt="Portfolio" />
+  </a>
+  <a href="https://www.youtube.com/@RAUFES" target="_blank">
+    <img src="https://img.shields.io/badge/Canal_RAUFES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub><i>"Code hard, play harder."</i> — Built with ☕ & PHP</sub>
+</div>
