@@ -1,20 +1,17 @@
 <div align="center">
 
-  <!-- Header Banner -->
   <h1>⚡ Opa, me chamo Rafael Lopes 👋</h1>
   <p><strong>Full Stack | Developer for +10 Years | Web Solutions Architect</strong></p>
 
-  <!-- Badges de Contato & Portfólio -->
   <a href="https://rafaellopes21.github.io/portfolio.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfólio-rafaellopes21.github.io-0052CC?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:contato@rafaellopes.dev">
+  <a href="mailto:rafaellopes1025@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contato_Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br/><br/>
 
-  <!-- Digitação Animada / Subtítulo -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Full+Stack+Software+Engineer;PHP+%7C+Laravel+%7C+JavaScript;GIS+%26+Interactive+Mapping+(OpenLayers);E-commerce+%26+Custom+Web+Platforms" alt="Typing SVG" />
   </a>
@@ -26,10 +23,10 @@
 ### 🚀 Sobre Mim
 
 - 💻 **Atuação:** Desenvolvedor Full Stack focado na construção de sistemas web de alta performance, e-commerces e aplicações corporativas sob medida.
-- 🗺️ **Especialista em GIS:** Sólida experiência no desenvolvimento de sistemas geográficos interativos, renderização de mapas vetoriais e manipulação de geodados com **OpenLayers**.
-- ⚙️ **Stack Principal:** **PHP (Laravel)** no backend, **JavaScript / Tailwind CSS / Blade** no frontend e bancos de dados relacionais de alta disponibilidade (**PostgreSQL / MySQL**).
+- ⚙️ **Stack Principal:** **PHP (Laravel / Slim)** no backend, **JavaScript / Tailwind CSS / Boostrap / Blade** no frontend e bancos de dados relacionais de alta disponibilidade (**PostgreSQL / MySQL**).
+- 🗺️ **Conhecimento em GIS:** Sólida experiência no desenvolvimento de sistemas geográficos interativos, renderização de mapas vetoriais e manipulação de geodados com **OpenLayers**.
 - 🛒 **E-commerce & Arquitetura:** Desenvolvimento de plataformas de vendas, validações dinâmicas, gerenciamento de rotas de checkout e integração de templates enriquecidos.
-- 🎯 **Foco:** Código limpo, performance, experiência do usuário (UX) e arquiteturas escaláveis.
+- 🎯 **Foco:** Código limpo, alta performance, experiência do usuário (UX) e arquiteturas escaláveis.
 
 ---
 
@@ -93,5 +90,5 @@
 <br/>
 
 <div align="center">
-  <sub><i>"Clean code always looks like it was written by someone who cares."</i> — Robert C. Martin</sub>
+  <sub><i>"FOCO no código limpo, performático e de fácil manutenção SEMPRE."</i></sub>
 </div>
