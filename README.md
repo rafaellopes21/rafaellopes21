@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Gmail-Contato_Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <br/><br/>
+  <br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Full+Stack+Software+Engineer;PHP+%7C+Laravel+%7C+Slim+Framework;GIS+and+Interactive+Mapping+(OpenLayers);E-commerce+and+Custom+Web+Platforms" alt="Typing SVG" />
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 
-  <br/><br/>
+  <br/>
 
   <p><b>Frontend & UI</b></p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
 
-  <br/><br/>
+  <br/>
 
   <p><b>Bancos de Dados & GIS</b></p>
   <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white" alt="OpenLayers" />
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 
-  <br/><br/>
+  <br/>
 
   <p><b>Servidores, Ferramentas & Design</b></p>
   <img src="https://img.shields.io/badge/Linux_Servers-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Servers" />
