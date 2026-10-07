@@ -2,7 +2,7 @@
 
   <!-- Header Banner -->
   <h1>⚡ Opa, me chamo Rafael Lopes 👋</h1>
-  <p><strong>Full Stack Software Engineer | GIS Specialist | Web Solutions Architect</strong></p>
+  <p><strong>Full Stack | Developer for +10 Years | Web Solutions Architect</strong></p>
 
   <!-- Badges de Contato & Portfólio -->
   <a href="https://rafaellopes21.github.io/portfolio.github.io/" target="_blank">
