@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <h1>⚡ Opa, eu sou o Rafael Lopes 👋</h1>
+  <h1>⚡ Opa, me chamo Rafael Lopes 👋</h1>
   <p><strong>Full Stack Software Engineer | GIS Specialist | Web Solutions Architect</strong></p>
 
   <!-- Badges de Contato & Portfólio -->
